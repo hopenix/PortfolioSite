@@ -90,6 +90,7 @@ footer {
     text-align: center;
     padding-top: 50px;
 }
+/* Start Portfolio Page Styling */
 #Portfolio {
     width: 960px;
     height: 300px;
@@ -110,7 +111,6 @@ footer {
     float: left;
     padding: 8px;
     margin: 8px;
-
 }
 
 #box2 {
@@ -148,6 +148,32 @@ footer {
     float: left;
     padding: 8px;
     margin: 8px;
+}
+h4 {
+    background-color: #4aaaa5;
+    text-decoration: none;
+    color: #4c4444;
+    text-align: center;
+}
+
+/* Start Contact Page Styling */
+#Contact {
+    width: 960px;
+    height: 300px;
+    /* text-align: center; */
+    background: #ffffff;
+    /* overflow: auto; */
+    margin: auto;
+}
+.container {
+    padding: 20px;
+    margin: 20px;
+}
+form {
+   /* background-color: greenyellow; */
+   position: relative;
+   overflow: auto;
+   height: 300px;
 }
 
 
